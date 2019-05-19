@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3V3 Pin=Q3-S
+Removed Pin From Net: NetName=+3V3 Pin=Q3-S
+Removed Pin From Net: NetName=+3V3 Pin=Q3-S
+Removed Pin From Net: NetName=+3V3 Pin=Q3-S
+Removed Pin From Net: NetName=+3V3 Pin=Q3-S
+Removed Member From Class: ClassName=Schematic Member=Q3
+Added Member To Class: ClassName=Schematic Member=Component R1 10K
+Added Member To Class: ClassName=Schematic Member=Component R3 10K
