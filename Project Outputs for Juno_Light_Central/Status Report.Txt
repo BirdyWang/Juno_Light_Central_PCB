@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Juno_Light_Central.PrjPcb]
+   Generated File[Juno_Light_Central.TXT]
+   Generated File[Juno_Light_Central.LDP]
+   Generated File[Juno_Light_Central.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:40:45 PM On 5/20/2019

@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Juno_Light_Central.PcbDoc   5/20/2019  1:40:45 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Juno_Light_Central.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T3      16mil (0.399mm)                                           Round             17        PTH        0.00inch (0.00mm)
+T4      16mil (0.406mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      30mil (0.749mm)                                           Round             5         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              41
+
+Total Processing Time (hh:mm:ss) : 00:00:00
