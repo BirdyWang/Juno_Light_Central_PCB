@@ -105,33 +105,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHWWQIOR
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Juno_Light_Central\Design Rule Check - Juno_Light_Central.html
+[Document5]
+DocumentPath=[01] - PWR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Juno_Light_Central\Juno_Light_Central.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Juno_Light_Central\Juno_Light_Central.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Juno_Light_Central\Juno_Light_Central.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Juno_Light_Central\Juno_Light_Central.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Juno_Light_Central\Juno_Light_Central.REP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Juno_Light_Central\Juno_Light_Central.RUL
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VRLKLMOT
 
 [Configuration1]
 Name=Sources
