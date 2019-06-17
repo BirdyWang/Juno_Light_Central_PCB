@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=VBAT_MON Pin=U2-33
-Removed Pin From Net: NetName=CHRG_STAT Pin=U2-34
-Added Pin To Net: NetName=CHRG_STAT Pin=U2-33
-Added Pin To Net: NetName=VBAT_MON Pin=U2-34
-Added Member To Class: ClassName=Schematic Member=Component C7 0.1uF
-Added Member To Class: ClassName=Schematic Member=Component C10 33pF
-Added Member To Class: ClassName=Schematic Member=Component R3 10K
-Added Member To Class: ClassName=Schematic Member=Component U4 AT42QT1012-TSHR
