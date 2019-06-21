@@ -38,7 +38,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Schematic.SchDoc
+DocumentPath=[01] - PWR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VRLKLMOT
+
+[Document2]
+DocumentPath=[02] - MCU AND IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKFWMAKM
 
-[Document2]
+[Document3]
 DocumentPath=Juno_Light_Central.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VAYRUPWE
 
-[Document3]
+[Document4]
 DocumentPath=Juno_Light_Central.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVFPFVKM
 
-[Document4]
+[Document5]
 DocumentPath=Juno_Light_Central.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,22 +122,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHWWQIOR
 
-[Document5]
-DocumentPath=[01] - PWR.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Juno_Light_Central\Design Rule Check - Juno_Light_Central.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VRLKLMOT
 
 [Configuration1]
 Name=Sources

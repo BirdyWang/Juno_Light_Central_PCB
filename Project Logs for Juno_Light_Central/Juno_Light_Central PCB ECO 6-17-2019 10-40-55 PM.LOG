@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TOUCH_IN Pin=U2-35
+Removed Pin From Net: NetName=PLUG_STAT Pin=U2-36
+Added Pin To Net: NetName=PLUG_STAT Pin=U2-35
+Added Pin To Net: NetName=TOUCH_IN Pin=U2-36

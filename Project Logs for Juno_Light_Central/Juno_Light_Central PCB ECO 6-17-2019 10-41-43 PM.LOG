@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SW_STAT Pin=U2-32
+Removed Pin From Net: NetName=VBAT_MON Pin=U2-34
+Added Pin To Net: NetName=VBAT_MON Pin=U2-32
+Added Pin To Net: NetName=SW_STAT Pin=U2-34
