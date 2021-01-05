@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=[02] - MCU AND IMU Member=R4
+Added Member To Class: ClassName=[01] - PWR Member=Component C7 4.7uF
+Added Member To Class: ClassName=[01] - PWR Member=Component C8 0.1uF
+Added Member To Class: ClassName=[01] - PWR Member=Component C13 1uF
+Added Member To Class: ClassName=[01] - PWR Member=Component C14 4.7uF
+Added Member To Class: ClassName=[02] - MCU AND IMU Member=Component R1 470
+Added Member To Class: ClassName=[01] - PWR Member=Component R2 100
+Added Member To Class: ClassName=[01] - PWR Member=Component R3 10K
+Added Member To Class: ClassName=[01] - PWR Member=Component R5 470
+Added Member To Class: ClassName=[01] - PWR Member=Component R7 22K
+Added Member To Class: ClassName=[01] - PWR Member=Component R8 10K
+Added Member To Class: ClassName=[01] - PWR Member=Component R10 4.7K
+Added Member To Class: ClassName=[01] - PWR Member=Component U3 MCP73831T-2ACI/OT
+Added Member To Class: ClassName=[01] - PWR Member=Component U5 TPS76333DBVT
