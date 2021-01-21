@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SW_D0 Pin=U2-34
+Removed Pin From Net: NetName=PLUG_STAT Pin=U2-35
+Added Pin To Net: NetName=SW_STAT Pin=U2-34
+Added Pin To Net: NetName=SW_D0 Pin=U2-35
+Added Member To Class: ClassName=[01] - PWR Member=Component C8 4.7uF
+Added Member To Class: ClassName=[01] - PWR Member=Component C12 0.1uF
+Added Member To Class: ClassName=[01] - PWR Member=Component C14 1uF
+Added Member To Class: ClassName=[01] - PWR Member=Component C15 4.7uF
+Added Member To Class: ClassName=[01] - PWR Member=Component R8 10K
+Added Member To Class: ClassName=[01] - PWR Member=Component R9 1M
+Added Member To Class: ClassName=[01] - PWR Member=Component R11 18K

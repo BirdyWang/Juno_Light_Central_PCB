@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=[01] - PWR.SchDoc
+Record=TopLevelDocument|FileName=[01] - PWR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=[01] - PWR.SchDoc|FileName=[02] - MCU AND IMU.SchDoc|SheetNumber= 
